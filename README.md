@@ -1,4 +1,9 @@
 # Comparativa de Plataformas LMS: Moodle, Blackboard y Canvas
+## 📝 Reseña
+La comparación entre Moodle, Blackboard y Canvas permite visualizar cómo las plataformas LMS responden a diferentes necesidades educativas. Moodle, con su filosofía de software libre, destaca por su alto grado de personalización, aunque requiere conocimientos técnicos para su óptimo funcionamiento. Blackboard, en cambio, ofrece una solución robusta, ampliamente utilizada en universidades tradicionales, con gran capacidad administrativa, pero con un coste económico elevado. Canvas, más reciente y con un enfoque intuitivo y moderno, ha ganado popularidad gracias a su facilidad de uso, integración ágil con herramientas externas y su diseño centrado en el usuario.
+
+Esta comparación pone de manifiesto que no existe una única solución ideal para todos los contextos educativos. Las instituciones deben valorar aspectos como el soporte técnico disponible, el presupuesto, la capacidad de personalización y la familiaridad del equipo con herramientas digitales. Este estudio aporta criterios clave para orientar la selección de una plataforma que apoye eficazmente el proceso de enseñanza-aprendizaje en entornos virtuales.
+
 
 ## 📝 Resumen
 Vamoa a hacer una comparativa de las siguientes plataformas LMS Moodle, Blackboard y Canvas, con el fin de identificar sus principales características, fortalezas y debilidades. 
