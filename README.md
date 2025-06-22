@@ -12,7 +12,7 @@ Veremoe al desempeño que tiene cada plataforma en cuanto a su facilidad de mane
 
 
 ## 🔑 Palabras clave
- virtual, Blackboard, Canvas, Moodle, plataformas LMS
+ virtual, Blackboard, clases, aprendizaje, Canvas, Moodle, plataformas LMS
 
 ---
 
