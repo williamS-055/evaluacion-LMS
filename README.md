@@ -1,58 +1,57 @@
-# evaluacion-LMS
-evaluación de tres plataformas
 # Comparativa de Plataformas LMS: Moodle, Blackboard y Canvas
 
 ## 📝 Resumen
-*(Escriba aquí un párrafo entre 150 y 250 palabras que explique el propósito del análisis, el procedimiento realizado y los hallazgos principales. Debe estar redactado en pasado.)*
+El presente análisis tuvo como propósito comparar las plataformas de gestión del  (LMS, por sus siglas en inglés) Moodle, Blackboard y Canvas, con el fin de identificar sus principales características, fortalezas y debilidades. Para ello, se realizó una revisión documental basada en fuentes académicas, técnicas y testimonios de usuarios, enfocándose en cinco criterios clave: usabilidad, herramientas pedagógicas, personalización, soporte técnico y adaptabilidad.
+
+Se evaluó cada plataforma según su desempeño en contextos educativos diversos, considerando tanto instituciones de educación superior como entornos corporativos. Moodle destacó por su flexibilidad y código abierto, aunque requiere mayores conocimientos técnicos para su implementación. Blackboard ofreció una interfaz robusta y un soporte técnico integral, pero presentó limitaciones en cuanto a costos y accesibilidad. Canvas, por su parte, sobresalió por su interfaz intuitiva, herramientas integradas y facilidad de personalización, lo que la posicionó favorablemente en contextos que demandan innovación y rapidez de implementación.
+
+Los hallazgos permitieron concluir que no existe una plataforma universalmente superior, sino que la elección adecuada depende del contexto institucional, los recursos disponibles y las necesidades pedagógicas específicas. Este análisis ofreció una visión crítica y comparativa que puede orientar decisiones en proyectos de implementación de LMS.
 
 ## 🔑 Palabras clave
-*(Escriba aquí cinco palabras clave separadas por comas y en orden alfabético. Ejemplo: aprendizaje virtual, Blackboard, Canvas, Moodle, plataformas LMS)*
+ virtual, Blackboard, Canvas, Moodle, plataformas LMS
 
 ---
 
 ## 🎯 Introducción
-*(Describa en pasado los antecedentes del análisis: ¿por qué es importante estudiar estas plataformas?, ¿qué problema se plantea?, ¿cuál fue el objetivo del trabajo? Puede incluir una breve justificación del enfoque.)*
+El análisis se realizó con el objetivo de examinar tres de las plataformas LMS más utilizadas a nivel global: Moodle, Blackboard y Canvas. Estas herramientas tecnológicas han ganado relevancia en entornos educativos presenciales, híbridos y virtuales, especialmente tras el aumento de la demanda de educación a distancia. El propósito fue identificar las fortalezas y debilidades de cada plataforma para orientar a instituciones educativas en la toma de decisiones informadas. Se planteó como problema la falta de criterios claros para elegir entre diferentes LMS. Por ello, se justificó un enfoque comparativo basado en revisión documental y análisis cualitativo.
 
 ---
 
 ## 🔍 Desarrollo del análisis
 
 ### Moodle
-- Características generales:
-- Fortalezas:
-- Debilidades:
+- Características generales: Plataforma de código abierto ampliamente utilizada a nivel mundial. Requiere instalación y administración propia.
+- Fortalezas: Alta personalización, amplia comunidad de soporte, extensible mediante plugins.
+- Debilidades: Interfaz menos intuitiva, curva de  técnica elevada.
 
 ### Blackboard
-- Características generales:
-- Fortalezas:
-- Debilidades:
+- Características generales: Plataforma comercial con servicios de alojamiento, soporte técnico y actualizaciones integradas.
+- Fortalezas: Estabilidad, funciones administrativas avanzadas, integración con herramientas institucionales.
+- Debilidades: Costo elevado, menor flexibilidad en comparación con plataformas abiertas.
 
 ### Canvas
-- Características generales:
-- Fortalezas:
-- Debilidades:
+- Características generales: Plataforma basada en la nube, fácil de usar y con diseño moderno.
+- Fortalezas: Interfaz intuitiva, excelente experiencia de usuario, integración con herramientas externas.
+- Debilidades: Algunas funcionalidades avanzadas requieren suscripciones premium, dependencia de conexión estable.
 
 ---
 
 ## 📊 Cuadro comparativo (Opcional)
 
-| Plataforma | Usabilidad | Herramientas Pedagógicas | Personalización | Soporte |
-|------------|------------|--------------------------|------------------|---------|
-| Moodle     |            |                          |                  |         |
-| Blackboard |            |                          |                  |         |
-| Canvas     |            |                          |                  |         |
+| Plataforma | Usabilidad       | Herramientas Pedagógicas       | Personalización       | Soporte                |
+|------------|------------------|-------------------------------|------------------------|------------------------|
+| Moodle     | Media            | Alta                          | Muy alta               | Comunidad abierta      |
+| Blackboard | Media-Alta       | Muy alta                      | Media                  | Soporte institucional  |
+| Canvas     | Muy alta         | Alta                          | Alta                   | Soporte en línea rápido|
 
 ---
 
 ## 🧠 Conclusión
-*(Redacte una síntesis crítica de los hallazgos: ¿qué plataforma resulta más adecuada para determinado contexto?, ¿qué aprendió del análisis?, ¿cómo lo aplicaría en su entorno?)*
+El análisis permitió identificar que cada plataforma LMS presenta ventajas particulares dependiendo del contexto de uso. Moodle resulta ideal para instituciones con equipos técnicos capacitados que buscan personalización a bajo costo. Blackboard es más apropiado para entornos institucionales que requieren soporte técnico robusto y funcionalidades administrativas avanzadas, aunque su costo puede ser un obstáculo. Canvas se destaca por su usabilidad y flexibilidad, siendo adecuada para docentes y estudiantes que valoran una experiencia moderna y fácil de usar. En contextos donde la experiencia del usuario es prioritaria y se dispone de buena conectividad, Canvas puede ser la opción más eficiente. Este estudio reforzó la importancia de evaluar tanto criterios pedagógicos como técnicos antes de implementar un LMS.
 
 ---
 
 ## 📚 Referencias
-*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
+Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3–10.
 
-> Ejemplo:  
-> Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
-Plantilla read_me.txt
-Mostrando Plantilla read_me.txt.
+Watson, W. R., & Watson, S. L. (2007). An argument for clarity: What are learning management systems, what are they not, and what should they become? *TechTrends*, 51(2), 28–34.
