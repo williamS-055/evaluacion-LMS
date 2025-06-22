@@ -1,11 +1,10 @@
 # Comparativa de Plataformas LMS: Moodle, Blackboard y Canvas
 
 ## 📝 Resumen
-El presente análisis tuvo como propósito comparar las plataformas de gestión del  (LMS, por sus siglas en inglés) Moodle, Blackboard y Canvas, con el fin de identificar sus principales características, fortalezas y debilidades. Para ello, se realizó una revisión documental basada en fuentes académicas, técnicas y testimonios de usuarios, enfocándose en cinco criterios clave: usabilidad, herramientas pedagógicas, personalización, soporte técnico y adaptabilidad.
+Vamoa a hacer una comparativa de las siguientes plataformas LMS Moodle, Blackboard y Canvas, con el fin de identificar sus principales características, fortalezas y debilidades. 
 
-Se evaluó cada plataforma según su desempeño en contextos educativos diversos, considerando tanto instituciones de educación superior como entornos corporativos. Moodle destacó por su flexibilidad y código abierto, aunque requiere mayores conocimientos técnicos para su implementación. Blackboard ofreció una interfaz robusta y un soporte técnico integral, pero presentó limitaciones en cuanto a costos y accesibilidad. Canvas, por su parte, sobresalió por su interfaz intuitiva, herramientas integradas y facilidad de personalización, lo que la posicionó favorablemente en contextos que demandan innovación y rapidez de implementación.
+Veremoe al desempeño que tiene cada plataforma en cuanto a su facilidad de manejo, contexto educativo para eluso del proceso enseñanza y aprendizaje. Moodle destacó por su flexibilidad y código abierto, aunque requiere mayores conocimientos técnicos para su implementación. Blackboard ofreció una interfaz robusta y un soporte técnico integral, pero presentó limitaciones en cuanto a costos y accesibilidad. Canvas, por su parte, sobresalió por su interfaz intuitiva, herramientas integradas y facilidad de personalización, lo que la posicionó favorablemente en contextos que demandan innovación y rapidez de implementación.
 
-Los hallazgos permitieron concluir que no existe una plataforma universalmente superior, sino que la elección adecuada depende del contexto institucional, los recursos disponibles y las necesidades pedagógicas específicas. Este análisis ofreció una visión crítica y comparativa que puede orientar decisiones en proyectos de implementación de LMS.
 
 ## 🔑 Palabras clave
  virtual, Blackboard, Canvas, Moodle, plataformas LMS
@@ -47,7 +46,7 @@ El análisis se realizó con el objetivo de examinar tres de las plataformas LMS
 ---
 
 ## 🧠 Conclusión
-El análisis permitió identificar que cada plataforma LMS presenta ventajas particulares dependiendo del contexto de uso. Moodle resulta ideal para instituciones con equipos técnicos capacitados que buscan personalización a bajo costo. Blackboard es más apropiado para entornos institucionales que requieren soporte técnico robusto y funcionalidades administrativas avanzadas, aunque su costo puede ser un obstáculo. Canvas se destaca por su usabilidad y flexibilidad, siendo adecuada para docentes y estudiantes que valoran una experiencia moderna y fácil de usar. En contextos donde la experiencia del usuario es prioritaria y se dispone de buena conectividad, Canvas puede ser la opción más eficiente. Este estudio reforzó la importancia de evaluar tanto criterios pedagógicos como técnicos antes de implementar un LMS.
+Pudimos identificar que cada plataforma LMS presenta ventajas particulares dependiendo del contexto de uso. Moodle resulta ideal para instituciones con equipos técnicos capacitados que buscan personalización a bajo costo. Blackboard es más apropiado para entornos institucionales que requieren soporte técnico robusto y funcionalidades administrativas avanzadas, aunque su costo puede ser un obstáculo. Canvas se destaca por su usabilidad y flexibilidad, siendo adecuada para docentes y estudiantes que valoran una experiencia moderna y fácil de usar. En contextos donde la experiencia del usuario es prioritaria y se dispone de buena conectividad, Canvas puede ser la opción más eficiente. Este estudio reforzó la importancia de evaluar tanto criterios pedagógicos como técnicos antes de implementar un LMS.
 
 ---
 
